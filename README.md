@@ -30,3 +30,6 @@ A Java Swing-based application that visually demonstrates classic thread synchro
 - Deadlock prevention
 - Thread communication
 - UI thread safety
+- 
+## Demo
+- https://youtu.be/aAz00C5KzVc
